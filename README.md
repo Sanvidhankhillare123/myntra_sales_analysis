@@ -1,4 +1,4 @@
-# Myntra Sales Data Analysis 📊
+# Myntra Sales Data Analysis 
 This project focuses on analyzing Myntra sales data using Python. 
 It provides insights into sales trends, customer behavior, product performance, and more, through data cleaning, manipulation, and visualization.
    Features
